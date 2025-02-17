@@ -73,16 +73,6 @@ A passionate **Full Stack Developer, Database Developer, and Python Developer** 
 - **AI & Deep Learning** – IIT Ropar (Swayam)  
 - **Advanced Distributed Systems** – Swayam  
 
-## 📈 GitHub Journey & Impact  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=nilavanan-ver-4&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Nilavanan's GitHub Stats" width="49%"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilavanan-ver-4&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="41%"/>  
-</div>  
-
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=nilavanan-ver-4&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" width="100%"/>  
-</div>  
 
 ## 🔧 Tools I Use  
 
